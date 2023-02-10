@@ -1,0 +1,61 @@
+Year,State,Type1,Type2,Type3,Length,Expense,Value1,Value2,Value3
+2016,Illinois,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,29639,13387,27909
+2016,Indiana,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,30533,8745,28313
+2016,Iowa,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,25308,7879,24136
+2016,Kansas,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,17827,8011,20901
+2016,Michigan,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,22018,11708,34863
+2016,Minnesota,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,29377,10701,18295
+2016,Missouri,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,22416,8178,19860
+2016,Montana,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,22961,6443,22145
+2016,Nebraska,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,21641,7446,18651
+2016,Ohio,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,28953,9757,23179
+2016,South Dakota,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,22164,8273,11592
+2016,Wisconsin,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,29777,8504,21327
+2017,Illinois,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,31298,13636,28167
+2017,Indiana,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,30926,8876,28315
+2017,Iowa,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,26742,8361,24912
+2017,Kansas,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,20291,8489,22000
+2017,Michigan,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,24058,11890,36714
+2017,Minnesota,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,30925,10883,19088
+2017,Missouri,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,23702,8176,18940
+2017,Montana,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,23657,6503,22956
+2017,Nebraska,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,23109,7732,19483
+2017,Ohio,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,30296,9827,23434
+2017,South Dakota,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,23147,8301,11845
+2017,Wisconsin,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,31662,8419,22574
+2018,Illinois,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,32491,13971,28618
+2018,Indiana,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,32338,9038,28805
+2018,Iowa,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,27991,8766,26214
+2018,Kansas,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,21316,8737,22615
+2018,Michigan,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,26964,12435,37600
+2018,Minnesota,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,32416,11226,20736
+2018,Missouri,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,24615,8387,19519
+2018,Montana,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,24953,6783,23678
+2018,Nebraska,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,23659,8188,20555
+2018,Ohio,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,31242,10026,24098
+2018,South Dakota,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,24219,8540,12060
+2018,Wisconsin,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,33156,8475,23500
+2019,Illinois,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,33454,14259,28522
+2019,Indiana,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,33402,9225,29092
+2019,Iowa,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,33821,9966,24521
+2019,Kansas,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,22571,8941,23302
+2019,Michigan,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,27936,12888,35844
+2019,Minnesota,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,33212,11381,22780
+2019,Missouri,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,25417,8554,19914
+2019,Montana,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,25918,6972,24481
+2019,Nebraska,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,25075,8467,21516
+2019,Ohio,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,32597,10068,24454
+2019,South Dakota,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,23252,8772,12465
+2019,Wisconsin,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,34424,8697,25063
+2020,Illinois,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,35570,14455,29515
+2020,Indiana,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,34263,9268,29533
+2020,Iowa,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,35019,9373,27346
+2020,Kansas,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,24179,9088,23745
+2020,Michigan,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,29405,13315,36832
+2020,Minnesota,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,34321,11748,24442
+2020,Missouri,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,26377,8992,20877
+2020,Montana,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,31724,6967,25239
+2020,Nebraska,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,25313,8582,22152
+2020,Ohio,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,34008,9902,24830
+2020,South Dakota,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,25353,8978,12866
+2020,Wisconsin,Private,Public In-State,Public Out-of-State,4-year,Fees/Tuition,35554,8764,25522
